@@ -35,6 +35,7 @@ Oltre a questo amo la letteratura, specialmente i classici francesi, anche se le
 E poi questo lockdown, che ho in parte passato dalle mie parti sull'\[], mi ha riportato al piacere delle camminate nei boschi e del lavoro manuale in campagna.
 
 
+
 <br>
 
 
