@@ -14,7 +14,7 @@ Ecco un po' di informazioni su di me:
 <br>
 
 
-# Personali
+# Dati personali
 - Età: 33 anni.
 - Titolo di studio: Dottorato di ricerca (Università di Milano)
 - Professione: Data Scientist, Machine Learning scientist
@@ -32,6 +32,8 @@ Precedentemente ho ottenuto un dottorato all'Università di Milano, ho passato s
 Ho la fortuna di avere interessi che coincidono (parzialmente) con il mio lavoro, che vanno a toccare informatica e intelligenza artificiale.
 
 Oltre a questo amo la letteratura, specialmente i classici francesi, anche se mi interessa di tutto, dai saggi alle biografie.
+
+Trascorrere il lockdown in campagna mi ha spinto lontano dalla tecnologia. Ho riscoperto il piacere delle camminate nei boschi e del lavoro manuale.
 
 Precisiamo: NIENTE di tutto ciò batte una grigliata con gli amici.
 
