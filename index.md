@@ -6,9 +6,8 @@ Ecco un po' di informazioni su di me:
 
 
 # Link
-- Puoi consultare il mio profilo LinkedIn
-- Il mio CV.
 - Ho ancora un profilo Twitter, ma non lo uso mai.
+- Il mio profilo LinkedIn è la mia principale identità online.
 
 
 <br>
