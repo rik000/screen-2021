@@ -26,3 +26,12 @@ Ecco un po' di informazioni su di me:
 # Alcune immagini
 Ecco alcune foto di me:
 
+<div>
+  <img src="../001.png">
+</div>
+
+<br>
+
+<div>
+  <img src="../002.png">
+</div>
