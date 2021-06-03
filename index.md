@@ -26,11 +26,11 @@ Ecco un po' di informazioni su di me:
 Ecco alcune foto di me:
 
 <div>
-  <img src="../001.jpg">
+  <img src="001.jpg">
 </div>
 
 <br>
 
 <div>
-  <img src="../002.jpg">
+  <img src="002.JPG">
 </div>
