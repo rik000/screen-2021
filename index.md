@@ -6,8 +6,8 @@ Ecco un po' di informazioni su di me:
 
 
 # Link
-- Ho ancora un profilo Twitter, ma non lo uso mai.
-- Il mio profilo LinkedIn è la mia principale identità online.
+- Ho ancora un [profilo Twitter](https://twitter.com/ivanbongiorni), ma non lo uso mai.
+- Il mio [profilo LinkedIn](https://www.linkedin.com/in/ivan-bongiorni-b8a583164/) è la mia principale identità online.
 
 
 <br>
